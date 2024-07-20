@@ -9,11 +9,11 @@
 
 Config Type|subscription link
 -------------------------------|-----------------------------|
-Vmess         |https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/vmess_iran.txt     |
-ShadowSocks        |https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/ss_iran.txt  |
-Trojan |https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/trojan_iran.txt|
-Vless|https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/vless_iran.txt|
-Mixed (configs of this are different)|https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt|
+Vmess         |https://raw.githubusercontent.com/Edoudotnet/GO_V2rayCollector_plus/main/vmess_iran.txt     |
+ShadowSocks        |https://raw.githubusercontent.com/Edoudotnet/GO_V2rayCollector_plus/main/ss_iran.txt  |
+Trojan |https://raw.githubusercontent.com/Edoudotnet/GO_V2rayCollector_plus/main/trojan_iran.txt|
+Vless|https://raw.githubusercontent.com/Edoudotnet/GO_V2rayCollector_plus/main/vless_iran.txt|
+Mixed (configs of this are different)|https://raw.githubusercontent.com/Edoudotnet/GO_V2rayCollector_plus/main/mixed_iran.txt|
 
 
 
