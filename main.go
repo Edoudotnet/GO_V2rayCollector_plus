@@ -19,6 +19,9 @@ func main() {
 
 	channels := []string{
 		"https://t.me/s/EmadGraphic",
+		"https://t.me/s/vpnfail_vless",
+		"https://t.me/s/vmesskhodam",
+		"https://t.me/s/v2ray_configs_pool",
 		"https://t.me/s/Hinminer",
 		"https://t.me/s/v2rayng_fa2",
 		"https://t.me/s/v2rayng_org",
